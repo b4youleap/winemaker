@@ -1,5 +1,7 @@
 # Winemaker
 
+This is the beginning of a companion app to wineferm. It's purpose is to provide configuration details for wineferm operation, track the status of the winemaking process, and provide data for future analysis and education.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
